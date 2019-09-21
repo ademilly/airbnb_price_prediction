@@ -1,5 +1,7 @@
 # Airbnb Price Prediction with Random Forest Regressor
 
+## setup
+[Install](docs/INSTALL.md)
 
 ## Personal mini-project
 **Python3**
